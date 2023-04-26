@@ -17,4 +17,4 @@ function calculate(){
     display.value = result.toFixed(2);
     equation = result.toFixed(2);
 }
-
+jj
